@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# GCBlog
+
+GCBlog is a modern blog website built using cutting-edge technologies like Nextjs/Reactjs and ShadecnUi to provide a seamless and efficient blogging experience. It features a user-friendly interface, responsive design.
+
+## Features
+
+- **Dynamic Content Management**: Easily create, edit, and manage blog posts.
+- **Responsive Design**: Optimized for all devices, ensuring a great user experience on desktops, tablets, and mobile phones.
+- **SEO Friendly**: Built-in [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) features to help your blog rank higher in search engine results.
+- **Fast Performance**: Leveraging [Next.js](https://nextjs.org/) for server-side rendering and static site generation to ensure fast load times.
+- **Custom Fonts**: Automatically optimized and loaded custom Google Fonts using [`next/font`](https://nextjs.org/docs/basic-features/font-optimization).
+
+## Tech Stack
+
+- **[Next.js](https://nextjs.org/)**: A React framework for server-side rendering and static site generation.
+- **[React](https://reactjs.org/)**: A JavaScript library for building user interfaces.
+- **[Node.js](https://nodejs.org/)**: A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **[Vercel](https://vercel.com/)**: A platform for deploying and hosting Next.js applications.
+- **CSS Modules**: For scoped and modular CSS.
+- **[Markdown](https://www.markdownguide.org/)**: For writing blog posts in a simple and readable format.
+- **[ShadeCN UI](https://shadecn.com/)**: A modern UI component library for building beautiful and accessible web applications.
 
 ## Getting Started
 
@@ -12,6 +32,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
