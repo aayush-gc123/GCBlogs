@@ -34,7 +34,8 @@ pnpm dev
 bun dev
 
 
-```
+![Screenshot 2024-11-26 170101](https://github.com/user-attachments/assets/ebfc525a-0ee6-4ff7-b1c6-a351b941ba3d)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
